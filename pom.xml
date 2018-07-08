@@ -5,7 +5,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>SpringBootWithRestJson</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	
 	<packaging>war</packaging>
 
 	<name>SpringBootDemo</name>
